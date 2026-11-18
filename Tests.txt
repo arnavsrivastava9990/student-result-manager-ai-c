@@ -1,0 +1,171 @@
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+SAP ID     Roll No     Name             Phone       Email               Yr   Sem  CGPA 
+500010101  R214226001  Aarav Sharma     9876543210  aarav@upes.ac.in    2    3    9.15
+500010105  R214226005  Diya Verma       9876543211  diya@upes.ac.in     1    2    7.60
+500010102  R214226002  Kabir Mehta      9876543212  kabir@upes.ac.in    3    5    5.80
+500010104  R214226004  Rohan Nair       9876543213  rohan@upes.ac.in    4    7    4.33
+500010103  R214226003  Ananya Singh     9876543214  ananya@upes.ac.in   2    4    8.43
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+--- CGPA of Each Student ---
+500010101  Aarav Sharma        CGPA: 9.15
+500010105  Diya Verma          CGPA: 7.60
+500010102  Kabir Mehta         CGPA: 5.80
+500010104  Rohan Nair          CGPA: 4.33
+500010103  Ananya Singh        CGPA: 8.43
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+--- Year-Wise Average CGPA ---
+Year 1: Average CGPA = 7.60 (1 student(s))
+Year 2: Average CGPA = 8.79 (2 student(s))
+Year 3: Average CGPA = 5.80 (1 student(s))
+Year 4: Average CGPA = 4.33 (1 student(s))
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+--- Sorted by SAP ID ---
+SAP ID     Roll No     Name             Phone       Email               Yr   Sem  CGPA 
+500010101  R214226001  Aarav Sharma     9876543210  aarav@upes.ac.in    2    3    9.15
+500010102  R214226002  Kabir Mehta      9876543212  kabir@upes.ac.in    3    5    5.80
+500010103  R214226003  Ananya Singh     9876543214  ananya@upes.ac.in   2    4    8.43
+500010104  R214226004  Rohan Nair       9876543213  rohan@upes.ac.in    4    7    4.33
+500010105  R214226005  Diya Verma       9876543211  diya@upes.ac.in     1    2    7.60
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+--- Sorted by Name ---
+SAP ID     Roll No     Name             Phone       Email               Yr   Sem  CGPA 
+500010101  R214226001  Aarav Sharma     9876543210  aarav@upes.ac.in    2    3    9.15
+500010103  R214226003  Ananya Singh     9876543214  ananya@upes.ac.in   2    4    8.43
+500010105  R214226005  Diya Verma       9876543211  diya@upes.ac.in     1    2    7.60
+500010102  R214226002  Kabir Mehta      9876543212  kabir@upes.ac.in    3    5    5.80
+500010104  R214226004  Rohan Nair       9876543213  rohan@upes.ac.in    4    7    4.33
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: 
+--- AI-Assisted Academic Advisor ---
+AI Advisor [Aarav Sharma | CGPA 9.15]: Excellent performance - maintain your current study pattern.
+AI Advisor [Diya Verma | CGPA 7.60]: Good performance - aim higher in your weaker subjects.
+AI Advisor [Kabir Mehta | CGPA 5.80]: Needs improvement - focus more on subjects with lower SGPA.
+AI Advisor [Rohan Nair | CGPA 4.33]: Requires immediate attention - meet your mentor and revise daily.
+AI Advisor [Ananya Singh | CGPA 8.43]: Good performance - aim higher in your weaker subjects.
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: Enter SAP ID to search: 
+SAP ID: 500010101 | Roll No: R214226001 | Name: Aarav Sharma
+Phone: 9876543210 | Email: aarav@upes.ac.in | Year: 2 | Sem: 3
+CGPA: 9.15
+AI Advisor [Aarav Sharma | CGPA 9.15]: Excellent performance - maintain your current study pattern.
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: Enter SAP ID: Enter Roll No: Enter Name: Enter Phone No: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter Semester 1 SGPA: Student added successfully!
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: Enter SAP ID to delete: Student record deleted.
+
+=== Student Record & Result Management System ===
+1. Add Student Details
+2. Search Student Record
+3. Calculate CGPA of Each Student
+4. Calculate Year-Wise Average CGPA
+5. Display All Students
+6. Delete a Student Record
+7. Display Sorted by SAP ID
+8. Display Sorted by Name
+9. AI-Assisted Academic Advisor
+0. Exit
+Enter your choice: Exiting program. Goodbye!
